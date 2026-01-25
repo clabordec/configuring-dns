@@ -1,6 +1,7 @@
 <p align="center">
-<img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
+<img width="728" height="724" alt="image" src="https://github.com/user-attachments/assets/e6a774d3-cee9-4add-bde7-f87fecb9245b" />
 </p>
+
 
 <h1>Configuring the Domain Name System (DNS)</h1>
 This project outlines the configuration of the DNS along with troubleshooting production like issues.<br />

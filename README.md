@@ -23,15 +23,11 @@ This project outlines the configuration of the DNS along with troubleshooting pr
 - Windows Server 2025</b>
 - Windows 11</b>
 
-<h2>Post-Install Configuration Objectives</h2>
+<h2>High-Level Deployment and Configuration Steps</h2>
 
-- <b>Configure Roles</b>: Assign certain roles to for certain users
-- <b>Configure Departments</b>: Add the necessary departments for certain users and agents
-- <b>Configure Teams</b>: Pull Agents from different Departments
-- <b>Configure Agents</b>: The workers, basically the people that help solve the tickets
-- <b>Configure Users</b>: The customers/end-users
-- <b>Configure SLA</b>: Service Level Agreement that is a formal contract between the service level provider and the client
-- <b>Configure Help Topics</b>: Categories for issues, helps users choose an issue that is related on their end
+- Install and set up Windows Server 2022 onto the VM
+- Add Active Directory Domain Services to the Server
+- Promote the server as the Domain Controller
 
 
 <br>

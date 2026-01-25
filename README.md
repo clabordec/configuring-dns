@@ -11,10 +11,7 @@ This project outlines the configuration of the DNS along with troubleshooting pr
 
 - JSS Sandbox
     - ACIDC01
-    - ACIDM01
-    - ACISS01
     - ACIWIN11
-    - ACIWINSS01
 - Remote Desktop Connection
 - Internet Information Services (IIS)
 

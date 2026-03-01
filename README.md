@@ -32,7 +32,7 @@ This project outlines the configuration of the DNS along with troubleshooting pr
 
 <h1>Configuration Steps</h1>
 
-## Deploy DHCP to the Windows Server
+## Deploying DHCP to the Windows Server
 ### Log into the Admin/Analyst panel with the credentials created for osTicket
 <p>
 <img src="https://github.com/user-attachments/assets/129ee379-54ad-4de7-a10b-9cadb71da8d2" width="500" alt="Disk Sanitization Steps"/>
